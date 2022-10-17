@@ -1,0 +1,31 @@
+nav{
+    background-color: #16BE69;
+    position: fixed;
+}
+
+.btn {
+    background-color: #009ff7;
+    color: rgb(26, 24, 24);
+    font-weight: bold;
+}
+
+body {
+    background-image: url("../img/sea.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+footer{
+    background-color: #16BE69;
+    color: #e94196 ;
+
+}
+
+.section7{
+    color: #e94196 ;
+}
+
+.s2{
+    color: #ffff;
+    font-weight: bold;
+}
